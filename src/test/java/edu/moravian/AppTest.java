@@ -19,7 +19,7 @@ public class AppTest
         assertTrue( true );
     }
 
-    @@Test
+    @Test
     public void testNothing() {
 
     }
